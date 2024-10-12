@@ -49,7 +49,7 @@
 
 巽离坤兑为阴，隔位逆行
 
-![image-20241012222726023](/Users/mr.ahai/Library/Application Support/typora-user-images/image-20241012222726023.png)
+![image-20241012222726023](pic/image-20241012222726023.png)
 
 ## 六亲：
 
@@ -69,4 +69,4 @@ Tips：若本卦六亲不全，需在本宫挂中寻找所缺六亲，写在同�
 
 ## 六十四挂速见表
 
-![image-20241012222653243](/Users/mr.ahai/Library/Application Support/typora-user-images/image-20241012222653243.png)
+![image-20241012222653243](pic/image-20241012222653243.png)
